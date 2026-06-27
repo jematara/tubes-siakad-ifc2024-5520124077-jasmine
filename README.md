@@ -1,4 +1,11 @@
 # Aplikasi Sistem Akademik Sederhana
+Link aplikasi: [tubes-siakad](http://tubes-siakad.site.je/)
+#### Akses Admin
+- email: admin@kampus.ac.id
+- password: 12345
+#### Akses Mahasiswa
+- email: mahasiswa@kampus.ac.id
+- password: 12345
 ***
 ## Deskripsi Aplikasi
 Aplikasi ini dibuat untuk memenuhi penilaian mata kuliah PWL. Aplikasi merupakan Sistem Akademik yang sederhana dimana data dosen, mahasiswa, matakuliah, jadwal dan krs dapat ditampilkan, ditambahkan, diubah dan dihapus. Hanya admin yang dapat mengakses data-data dosen, mahasiswa, matakuliah dan jadwal sedangkan mahasiswa hanya dapat mengakses krs sesuai akun yang dimiliki.
@@ -29,3 +36,6 @@ Menu mandiri untuk memilih (take) atau membatalkan (drop) mata kuliah yang terse
 ***
 ### Jadwal Kuliah (Admin dan Mahasiswa)
 Halaman repositori personal bagi admin dan mahasiswa untuk memantau komitmen akademik mereka. Sistem menyajikan tabulasi data komparatif yang memuat nama mata kuliah, identitas dosen pengajar, ruang kelas, serta detail waktu pelaksanaan kuliah secara real-time.
+***
+## Screenshots
+Screenshots halaman-halaman aplikasi: [screenshots](https://github.com/jematara/tubes-siakad-ifc2024-5520124077-jasmine/tree/main/screenshots)
